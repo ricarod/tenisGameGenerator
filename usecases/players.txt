@@ -1,0 +1,35 @@
+player.name = "Ricardo",
+player.age = 49,
+
+player.name = "Maria",
+player.age = 15,
+
+player.name = "Juan",
+player.age = 55,
+
+player.name = "Lourdes",
+player.age = 25,
+
+player.name = "Manuel",
+player.age = 30,
+
+player.name = "Rosa",
+player.age = 55,
+
+player.name = "Luis",
+player.age = 49,
+
+player.name = "Elena",
+player.age = 15,
+
+player.name = "Pedro",
+player.age = 55,
+
+player.name = "Victoria",
+player.age = 25,
+
+player.name = "Fernando",
+player.age = 30,
+
+player.name = "Teresa",
+player.age = 55,
